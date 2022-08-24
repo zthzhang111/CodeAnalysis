@@ -1,0 +1,1 @@
+const t={key:"v-2d8ab272",path:"/zh/community/joingroup.html",title:"\u52A0\u5165\u793E\u533A",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1661310068e3,contributors:[{name:"zthzhang",email:"96770128+zthzhang111@users.noreply.github.com",commits:1}]},filePathRelative:"zh/community/joingroup.md"};export{t as data};

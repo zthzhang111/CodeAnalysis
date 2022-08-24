@@ -1,0 +1,1 @@
+const e={key:"v-64f30f77",path:"/en/quickStarted/codeDeploy.html",title:"\u6E90\u7801\u90E8\u7F72",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1661310068e3,contributors:[{name:"zthzhang",email:"96770128+zthzhang111@users.noreply.github.com",commits:1}]},filePathRelative:"en/quickStarted/codeDeploy.md"};export{e as data};
